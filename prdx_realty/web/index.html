@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Wolfs International Realty | Management Dashboard</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js"></script>
+        <script src="mockdata.js"></script>
+    </head>
+    <body>
+        <header>
+            <image src="https://i.imgur.com/uwhVyVI.png" style="width: 100px;margin-left: auto;margin-right: auto;display: block;"></image>
+        </header>
+        <main>
+            <div class="navbar">
+                <button class="nav-button active" id="available">Available Properties</button>
+                <button class="nav-button" id="sold">Sold Properties</button>
+            </div>
+            <div class="content | available-properties" id="available-properties">
+                <table id="available-properties">
+                    <thead>
+                        <tr style="position: sticky;top:-1px;z-index: 10;">
+                            <th>Address</th>
+                            <th>Price</th>
+                            <th>Tier</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="available-property-list">
+                    </tbody>
+                </table>
+            </div>
+            <div class="content | sold-properties" id="sold-properties">
+                <table id="sold-properties">
+                    <thead>
+                        <tr style="position: sticky;top:-1px;z-index: 10;">
+                            <th>Address</th>
+                            <th>Owner</th>
+                            <th>Keyholders</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="sold-property-list">
+                    </tbody>
+                </table>
+            </div>
+        </main>
+        <footer>
+            <p>Copyright © 2023 Wolfs International Realty</p>
+        </footer>
+
+        <!-- Simple confirmation modal -->
+        <dialog id="confirm-modal">
+            <p id="confirm-modal-text">Placeholder</p>
+            <form method="dialog">
+                <button id="confirm-modal-button1">Placeholder 1</button>
+                <button id="confirm-modal-button2">Placeholder 2</button>
+            </form>
+        </dialog>
+
+        <!-- Modal with input -->
+        <dialog id="input-modal">
+            <p id="input-modal-text">Placeholder</p>
+            <form method="dialog">
+                <input id="input-modal-input">
+                <button id="input-modal-button1">Placeholder 1</button>
+                <button id="input-modal-button2">Placeholder 2</button>
+            </form>
+        </dialog>
+    </body>
+</html>

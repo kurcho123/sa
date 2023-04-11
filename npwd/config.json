@@ -1,0 +1,66 @@
+{
+  "PhoneAsItem": {
+    "enabled": true,
+    "exportResource": "qb-npwd",
+    "exportFunction": "HasPhone"
+  },
+  "general": {
+    "useResourceIntegration": true,
+    "toggleKey": "m",
+    "toggleCommand": "phone",
+    "defaultLanguage": "en"
+  },
+  "profanityFilter": {
+    "enabled": false,
+    "badWords": ["esx"]
+  },
+  "database": {
+    "useIdentifierPrefix": false,
+    "playerTable": "players",
+    "identifierColumn": "citizenid",
+    "identifierType": "license",
+    "profileQueries": true,
+    "phoneNumberColumn": "phone_number"
+  },
+  "debug": {
+    "level": "error",
+    "enabled": true,
+    "sentryEnabled": true
+  },
+  "defaultContacts": [],
+  "images": {
+    "url": "https://api.imgur.com/3/image",
+    "type": "imgur",
+    "imageEncoding": "png",
+    "contentType": "multipart/form-data",
+    "useContentType": true,
+    "authorizationHeader": "Authorization",
+    "authorizationPrefix": "Client-ID",
+    "useAuthorization": true,
+    "returnedDataIndexes": ["data", "link"]
+  },
+  "imageSafety": {
+    "filterUnsafeImageUrls": true,
+    "embedUnsafeImages": false,
+    "embedUrl": "https://i.example.com/embed",
+    "safeImageUrls": [
+      "i.imgur.com",
+      "i.file.glass",
+      "dropbox.com",
+      "c.tenor.com",
+      "discord.com",
+      "cdn.discordapp.com",
+      "media.discordapp.com",
+      "media.discordapp.net",
+      "upload.wikipedia.org",
+      "i.projecterror.dev"
+    ]
+  },
+  "apps": ["pefcl", "npwd_qb_housing", "npwd_qb_mail", "npwd_qb_services", "npwd_qb_garage"],
+  "voiceMessage": {
+    "enabled": false,
+    "authorizationHeader": "PE-Secret",
+    "url": "",
+    "returnedDataIndexes": ["url"]
+  }
+}

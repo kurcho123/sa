@@ -1,0 +1,11 @@
+Config = Config or {}
+Config.Debug = true -- enable DEV debugs
+Config.MinZOffset = 100
+Config.NewAdjustment = 70.0
+--Config.MinZOffset = -50
+--Config.NewAdjustment = -150.0
+Config.RamsNeeded = 2
+Config.UnownedBlips = false
+Config.Commission = 0.15
+Config.Targets = {}
+Config.Houses = {}

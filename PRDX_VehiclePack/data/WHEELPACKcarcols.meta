@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item> <!-- VWT_TUNER -->
+		<Item>
+        <wheelName>wheel_bb20_3</wheelName>
+        <wheelVariation />
+        <modShopLabel>"The Pfister" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_4</wheelName>
+        <wheelVariation />
+        <modShopLabel>"The Pfister" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_7</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Royal Five" Painted + Gold Bolts</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_8</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Royal Five" Chrome + Gold Bolts</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_11</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Snowy Flake" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_12</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Snowy Flake" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_15</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Classic 5 Spoke" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_16</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Classic 5 Spoke" Chrome Lip with Painted Center</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_17</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "The Mechanic" Alloy</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_18</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "The Mechanic" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_19</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "The Mechanic" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_22</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Le Mans" Painted Center</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_23</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Le Mans" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_27</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "The Classic" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_28</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "The Weighted One"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_29</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Emiliant"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+
+		<Item>
+        <wheelName>wheel_bb20_32</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Classic Spokes" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_33</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Classic Spokes" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_36</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Modern Classic" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_37</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Modern Classic" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_38</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Modern Classic" Chrome + Gold Center</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_39</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Emiliant Dished" Chrome Lip + Painted Center</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_40</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Emiliant Dished" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_41</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Emiliant Dished" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_43</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "V.I.P" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_44</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "V.I.P" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_45</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "The Obey" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_47</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "The Obey" Chrome</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_48</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Painted</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_49</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" BB Racing</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_50</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Yours Supercup</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_51</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Jackal Racing</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_52</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" High Performance Butter</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_53</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Slice´n Dice Donut</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_54</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Atomic Racing</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_55</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Sinister</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_56</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" YDROP Motorsports</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_57</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" On Fire</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_58</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" The Smoothest Brain of all</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_59</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Rolling in Circles</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_60</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Slitherimz</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_61</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" I got you</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_62</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Keep on Running</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_63</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" Star Screamers</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_64</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Flyin Disks" It´s a Super Secret</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_66</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Retro 3 Piece" </modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_67</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Rally Throwback"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_68</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Speed Boy"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_69</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Pure Business"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_70</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Blacktop Blender"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_71</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Super Turbine Special"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_72</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Mesh Meister"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_73</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "ZR350"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_74</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Gigamesh"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+		<Item>
+        <wheelName>wheel_bb20_75</wheelName>
+        <wheelVariation />
+        <modShopLabel>BB Rims "Previon"</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+  		</Item>
+	</Item>
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>

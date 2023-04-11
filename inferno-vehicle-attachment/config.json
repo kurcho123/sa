@@ -1,0 +1,19 @@
+{
+	"EnableLine":false,
+	"EnableInstructions":false,
+	"InstructionDisplayTime":15000,
+	"AttachmentBlacklist":[
+	   "tow",
+	   "flatbedm2",
+	   "trflat",
+	   "trailersmall",
+	   "tvtrailer"
+	],
+	"BlacklistToWhitelist":true,
+	"WhitelistForTowedVehicles":false,
+	"MaxNumberOfAttachedVehicles":-1,
+	"MaxDistanceFromTowVehicle":220.0,
+	"ChangeAmount":0.2,
+	"FasterAmount":2.0,
+	"SlowAmount":-0.15
+ }

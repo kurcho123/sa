@@ -1,0 +1,17 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hedwig_sheriff_milo_.ymap</Item>
+    <Item>hedwig_sheriff_lod_milo.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>hedwig_sheriff.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

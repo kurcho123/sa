@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>elegyrh5</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            8
+            156 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            8 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            8
+            95 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            27
+            27
+            35
+            8 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+            4
+            8
+            156 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            64
+            64
+            70
+            156 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            142
+            142
+            71
+            156 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+            101
+            101
+            156 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            88
+            88
+            89
+            156 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            61
+            61
+            61
+            8 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            156 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+            34
+            34
+            8 
+            107
+            112
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2158_elegyrh5_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="107" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>elegypace</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv White</Name>
+            <Value value="80" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      </plateProbabilities>
+      <lightSettings value="107" />
+      <sirenSettings value="612" />
+    </Item>
+    <Item>
+      <modelName>elegypolice</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            8
+            8
+            111
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv White</Name>
+            <Value value="80" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      </plateProbabilities>
+      <lightSettings value="107" />
+      <sirenSettings value="613" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

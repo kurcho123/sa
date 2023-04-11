@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SInteriorOrderData>
+  <startFrom value="3000" />
+  <proxies>
+    <Item>iak_grovebunker_milo_</Item>
+    <Item>iak_grovehouse_01_milo_</Item>
+    <Item>iak_grovehouse_02_milo_</Item>
+    <Item>iak_grovehouse_03_milo_</Item>
+    <Item>iak_grovehouse_04_milo_</Item>
+    <Item>iak_grovehouse_05_milo_</Item>
+  </proxies>
+</SInteriorOrderData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+    <Item>
+      <modelName>W_SB_MP9a</modelName>
+      <txdName>W_SB_MP9a</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="500"/>
+    </Item>
+    <Item>
+      <modelName>w_sb_MP9a_mag2</modelName>
+      <txdName>w_sb_MP9a_mag2</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="500"/>
+    </Item>
+    <Item>
+      <modelName>w_at_mp9a_flsh</modelName>
+      <txdName>w_at_mp9a_flsh</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="500"/>
+    </Item>
+    <Item>
+      <modelName>w_at_mp9a_supp_02</modelName>
+      <txdName>w_at_mp9a_supp_02</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="500"/>
+    </Item>
+    <Item>
+      <modelName>w_at_scope_mp9a</modelName>
+      <txdName>w_at_scope_mp9a</txdName>
+      <ptfxAssetName>null</ptfxAssetName>
+      <lodDist value="500"/>
+    </Item>
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>

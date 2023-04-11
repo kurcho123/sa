@@ -1,0 +1,205 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 15vh;
+    padding-top: 5vh;
+    width: 75%;
+    display: none;
+    overflow: hidden;
+  }
+  
+header {
+    background-color: #34495e;
+    color: #fff;
+    padding: 20px;
+    border-radius: 25px 25px 0 0;
+}
+
+main {
+    padding: 20px;
+    background-color: white;
+    height: 60vh;
+}
+
+footer {
+    background-color: #34495e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 0 0 25px 25px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #ddd;
+    width: 100px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.nav-button {
+    border: none;
+    width: 49%;
+    height: 50px;
+    font-size: large;
+}
+
+.nav-button:hover, .nav-button:active {
+    opacity: 75%;
+}
+
+.nav-button.active {
+    background-color: #e86052;
+}
+
+.available-properties {
+    display: block;
+}
+
+.sold-properties {
+    display: none;
+}
+
+.action-btn {
+    border-radius: 50%;
+    border: none;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.tier-btn {
+    background: #9b59b6;
+    color: white;
+}
+
+.price-btn {
+    background: #2ecc71;
+    color: white;
+}
+
+.trash-btn {
+    background: #e74c3c;
+    color: white;
+}
+
+.transfer-btn {
+    background: #3498db;
+    color: white;
+}
+
+/* Tooltips */
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+
+    z-index: 11;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.content {
+    max-height: 570px;
+    overflow-y: scroll;
+}
+
+/* Dialog */
+
+dialog {
+    width: 20vw;
+    height: 18vh;
+    border: none;
+    border-radius: 25px;
+    text-align: center;
+    overflow: hidden;
+}
+
+#input-modal-text {
+    margin-top: 3vh;
+}
+
+dialog input {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    border: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+input:focus {
+    outline: none;
+}
+
+dialog button {
+    border-radius: 25px;
+    border: none;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    margin: 10px;
+    color: white;
+    font-size: inherit;
+}
+
+#confirm-modal-button1, #input-modal-button1 {
+    background-color: #2ecc71;
+}
+
+#confirm-modal-button2, #input-modal-button2 {
+    background-color: #e74c3c;
+}
